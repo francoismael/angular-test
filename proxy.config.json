@@ -1,0 +1,7 @@
+{
+  "/tripolitsa": {
+    "target": "http://jericho.intrans.io",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
